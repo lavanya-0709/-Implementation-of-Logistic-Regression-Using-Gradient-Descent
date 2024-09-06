@@ -96,24 +96,22 @@ print(y_prednew)
 ```
 print('Accuracy:',accuracy)
 ```
-![5-1](https://github.com/user-attachments/assets/2e63e3f1-a543-4a3a-863b-fe7346d046df)
-
+![image](https://github.com/user-attachments/assets/645be245-5ea1-4d62-b623-669d594f46fe)
 ```
 print(y_pred)
 ```
-![5-2](https://github.com/user-attachments/assets/b796b6f2-b65a-477f-ac9d-af7fecf723ae)
+![image](https://github.com/user-attachments/assets/f567e4d9-e839-440f-81a4-2628cda134c7)
+```
+print(y_prednew)
+```
+![Screenshot 2024-09-06 114345](https://github.com/user-attachments/assets/7c557095-2e55-47f6-9dec-08eec65b6245)
 
 ```
 print(y_prednew)
 ```
+![Screenshot 2024-09-06 114349](https://github.com/user-attachments/assets/070ccd1c-2b00-47e6-9210-492ac012a6f4)
 
-![5-3](https://github.com/user-attachments/assets/cdbda2b8-f1ea-42cd-92c9-eb51064aafc6)
 
-```
-print(y_prednew)
-```
-
-![5-4](https://github.com/user-attachments/assets/6c6cfc09-c132-42dd-9d82-37c5ca036ca0)
 
 
 ## Result:

@@ -97,6 +97,7 @@ print(y_prednew)
 print('Accuracy:',accuracy)
 ```
 ![5-1](https://github.com/user-attachments/assets/2e63e3f1-a543-4a3a-863b-fe7346d046df)
+
 ```
 print(y_pred)
 ```
